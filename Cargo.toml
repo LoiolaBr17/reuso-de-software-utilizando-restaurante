@@ -1,0 +1,7 @@
+[package]
+name = "restaurantUsing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+restaurant = {path = "https://github.com/LoiolaBr17/reuso-de-software-utilizando-restaurante.git"}
